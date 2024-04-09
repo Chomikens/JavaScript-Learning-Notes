@@ -12,7 +12,7 @@ The loading strategy you choose for your scripts affects the page's load time an
 
 | Attribute | Load Time | Execution Time | Use Case |
 |-----------|-----------|----------------|----------|
-| Async | Asynchronously with HTML parsing | Immediately after download, pauses HTML [parsing](/FAQ-for-beginners/What-is-HTML-parsing.md) | Independent scripts, like analytics |
+| Async | Asynchronously with HTML parsing | Immediately after download, pauses HTML [parsing](/01-Setting-Up/FAQ-for-beginners/What-is-HTML-parsing.md) | Independent scripts, like analytics |
 | Defer | Asynchronously with HTML parsing | After HTML parsing, before `DOMContentLoaded` event | Scripts that need the full DOM but no strict execution order |
 | None (Before `</body>`) | After HTML parsing | Immediately after loading, just before `DOMContentLoaded` event | Scripts dependent on a fully parsed DOM |
 
