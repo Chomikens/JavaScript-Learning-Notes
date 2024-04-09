@@ -5,14 +5,14 @@
 	- [How JavaScript Engines Work](Javascipt-engine.md)
 
 -  **Call Stack and Stack Overflow**
-	- [Understanding the Call Stack](/Callstack.md)
+	- [Understanding the Call Stack](Callstack.md)
 	- [Stack Overflow](Stackoverflow.md)
 
 -  **Execution Context**
 	- [Execution Context](Execution-context.md)
 
 -  **Hoisting**
-	- [Hoisting](/Hoisting.md)
+	- [Hoisting](Hoisting.md)
         
 -  **Memory Heap**
 	- [Memory Heap](Memory-heap.md)
