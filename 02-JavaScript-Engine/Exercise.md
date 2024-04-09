@@ -13,7 +13,13 @@ declareFavoriteFood();
 In creation phase var is hoisted but only its name not values
 
 ### What is the output of the console.log() statement inside the function and why? 
-After reaching `declareFavoriteFood();` var is reasing to `Pizza value` so declareFavoriteFood hasn't in scope this variable so it will search upper scope.
+The function declaration declareFavoriteFood() is also hoisted to the top. The function itself is hoisted with its body, so it can be called before its declaration in the code.
+
+When the line console.log(myFavoriteFood); is executed, it prints undefined because, although myFavoriteFood has been hoisted and declared, it hasn't been assigned a value until the next line.
+
+Then, myFavoriteFood is assigned the value "Pizza".
+
+When declareFavoriteFood(); is called, it logs "Pizza" to the console because myFavoriteFood has been assigned a value by the time this function is executed.
 
 ```js
 function firstFunction() {
