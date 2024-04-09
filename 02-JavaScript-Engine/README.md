@@ -20,4 +20,7 @@
     - [Memory Leaks](Memory-leaks.md)
             
 -  **Optimized Code for Engine**
-	- [How to write optimised code for engine](/Optimised-code.md)
+	- [How to write optimised code for engine](Optimised-code.md)
+                
+-  **Exercise**
+	- [Hoisting, Execution context, callstack](Exercise.md)
