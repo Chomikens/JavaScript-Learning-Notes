@@ -18,7 +18,7 @@ Below is the structure of the repository, along with links to each section for e
     -   An overview of JavaScript and how to navigate these notes.
 -   [**01 - Setting Up**](01-Setting-Up/Where-to-put-JS.md)
     -   Integrating JavaScript into your development environment.
--   **02 - JavaScript Engine**
+-   [**02 - JavaScript Engine**](/02-JavaScript-Engine/README.md)
     -   Dive deep into how JavaScript engines work, covering interpreters, compilers, and more.
 -   **03 - Fundamentals**
     -   The building blocks of JavaScript, including variables, data types, and basic logic.
