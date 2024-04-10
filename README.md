@@ -20,7 +20,7 @@ Below is the structure of the repository, along with links to each section for e
     -   Integrating JavaScript into your development environment.
 -   [**02 - JavaScript Engine**](/02-JavaScript-Engine/README.md)
     -   Dive deep into how JavaScript engines work, covering interpreters, compilers, and more.
--   **03 - Fundamentals**
+-   [**03 - Fundamentals**](/03-Fundamentals/README.md)
     -   The building blocks of JavaScript, including variables, data types, and basic logic.
 -   **04 - Functions**
     -   From declaring functions to understanding closures and currying.
