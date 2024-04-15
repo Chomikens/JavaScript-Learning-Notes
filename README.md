@@ -30,7 +30,7 @@ Below is the structure of the repository, along with links to each section for e
     -   Explore arrays, objects, and more advanced data structures.
 -   [**07 - DOM Manipulation**](/07-DOM-Manipulations/README.md)
     -   Learn how to interact with and manipulate the DOM.
--   [**08 - Events**](/07-DOM-Manipulations/README.md)
+-   [**08 - Events**](/08-Events/README.md)
     -   Handling events for interactive web pages.
 -   [**09 - Manipulating Content**](/09-Manipulation-text-and-content/README.md)
     -   Techniques for dynamically changing text and HTML content.
