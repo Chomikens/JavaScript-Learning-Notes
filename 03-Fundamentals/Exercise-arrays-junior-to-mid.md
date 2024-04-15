@@ -99,3 +99,65 @@ showTasks(); // Display final list of tasks
 2.  Use appropriate array methods (`map`, `filter`, `reduce`, `sort`) to implement these functionalities.
 
 **Expected Outcome:** Functions that accurately process transactions to provide the total sales, transactions by category, and sorted transactions.
+
+## Solution:
+
+```js
+/**
+ * A list of sales transactions.
+ * @type {Array<{id: number, amount: number, category: string}>}
+ */
+
+const transactions = [
+  { id: 1, amount: 60, category: 'Food' },
+  { id: 2, amount: 120, category: 'Electronics' },
+  { id: 3, amount: 210, category: 'Electronics' },
+  { id: 4, amount: 55, category: 'Food' },
+  { id: 5, amount: 80, category: 'Clothing' },
+  { id: 6, amount: 90, category: 'Clothing' },
+  { id: 7, amount: 30, category: 'Food' },
+];
+
+**
+ * Calculates the total sales from an array of transaction objects.
+ * @param {Array<{amount: number}>} transactions - An array of transaction objects.
+ * @returns {number} The total sales amount.
+ */
+function handleTotalSales(transactions) {
+   const total = transactions
+    .map(transaction => transaction.amount)
+    .reduce((total, amount) => total + amount, 0);
+   return total;
+}
+
+/**
+ * Filters transactions by category.
+ * @param {Array<{category: string}>} transactions - An array of transaction objects.
+ * @param {string} category - The category to filter by.
+ * @returns {Array<{id: number, amount: number, category: string}>} An array of transactions filtered by the specified category.
+ */
+function transactionsByCat(transactions, category) {
+    return transactions.filter(transaction => transaction.category === category);
+}
+
+/**
+ * Finds and summarizes transactions by a specific category.
+ * @param {Array<{id: number, amount: number, category: string}>} transactions - An array of transaction objects.
+ * @param {string} category - The category to search and summarize.
+ * @returns {Object} An object containing summaries of transactions in the specified category.
+ */
+function findTransactionByCat(transactions, category) {
+    const filteredTransactions = transactionsByCat(transactions, category);
+    const sortedTransactions = [...filteredTransactions].sort((a, b) => a.amount - b.amount);
+
+    return {
+        totalAmount: handleTotalSales(filteredTransactions),
+        count: filteredTransactions.length,
+        lowestTransaction: `Lowest amount: ${sortedTransactions[0]?.amount} | ID: ${sortedTransactions[0]?.id}`,
+        highestTransaction: `Highest amount: ${sortedTransactions[sortedTransactions.length - 1]?.amount} | ID: ${sortedTransactions[sortedTransactions.length - 1]?.id}`,
+    };
+}
+
+// Example usage:
+console.log(findTransactionByCat(transactions, "Food"));
+```
