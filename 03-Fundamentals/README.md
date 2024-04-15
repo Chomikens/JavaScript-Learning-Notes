@@ -11,7 +11,8 @@
 		 - [Arrays Exercises](Exercise-arrays.md)
 		 - [Arrays: Advance exercise](./Exercise-arrays-junior-to-mid.md)
 		- [Objects: Basic](Objects.md)
-			-[Important Object Concepts](Objects-concetps.md)
+			- [Important Object Concepts](Objects-concetps.md): Passing by Reference, Copying Objects, Destucturing, This, Call & Apply & Bind.
+			- [Instantation & Prototype Inheritance](Object-instantaion-and-prototype.md)
 
 
 
