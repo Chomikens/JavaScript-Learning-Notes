@@ -22,11 +22,11 @@ Below is the structure of the repository, along with links to each section for e
     -   Dive deep into how JavaScript engines work, covering interpreters, compilers, and more.
 -   [**03 - Fundamentals**](/03-Fundamentals/README.md)
     -   The building blocks of JavaScript, including variables, data types, and basic logic.
--   **04 - Functions**
+-   [**04 - Functions**](/04-Functions/README.md)
     -   From declaring functions to understanding closures and currying.
--   **05 - Loops**
+-   [**05 - Loops**](/05-Loops/Loops.md)
     -   Understanding different types of loops in JavaScript.
--   **06 - Data Structures**
+-   [**06 - Data Structures**](/06-Data-Structure/README.md)
     -   Explore arrays, objects, and more advanced data structures.
 -   **07 - DOM Manipulation**
     -   Learn how to interact with and manipulate the DOM.
