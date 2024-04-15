@@ -11,6 +11,7 @@
 		 - [Arrays Exercises](Exercise-arrays.md)
 		 - [Arrays: Advance exercise](./Exercise-arrays-junior-to-mid.md)
 		- [Objects: Basic](Objects.md)
+			-[Important Object Concepts](Objects-concetps.md)
 
 
 
