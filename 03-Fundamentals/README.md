@@ -10,7 +10,7 @@
 		- [Arrays](Arrays.md)
 		 - [Arrays Exercises](Exercise-arrays.md)
 		 - [Arrays: Advance exercise](./Exercise-arrays-junior-to-mid.md)
-		- [Objects]
+		- [Objects: Basic](Objects.md)
 
 
 
