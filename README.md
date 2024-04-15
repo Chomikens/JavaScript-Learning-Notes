@@ -28,11 +28,11 @@ Below is the structure of the repository, along with links to each section for e
     -   Understanding different types of loops in JavaScript.
 -   [**06 - Data Structures**](/06-Data-Structure/README.md)
     -   Explore arrays, objects, and more advanced data structures.
--   **07 - DOM Manipulation**
+-   [**07 - DOM Manipulation**](/07-DOM-Manipulations/README.md)
     -   Learn how to interact with and manipulate the DOM.
--   **08 - Events**
+-   [**08 - Events**](/07-DOM-Manipulations/README.md)
     -   Handling events for interactive web pages.
--   **09 - Manipulating Content**
+-   [**09 - Manipulating Content**](/09-Manipulation-text-and-content/README.md)
     -   Techniques for dynamically changing text and HTML content.
--   **10 - Advanced Topics**
+-   [**10 - Advanced Topics**](/10-Advanced-Topics/README.md)
     -   Delve into advanced topics like OOP, functional programming, async JavaScript, and more.
