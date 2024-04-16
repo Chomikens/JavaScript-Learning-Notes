@@ -13,6 +13,8 @@
 	- [IIFE](IIFE.md)
 -  **Closure**
     - [Closure intro](Closure.md)
+    - [Closure and Memory](Closure-memory.md)
+    - [Closure encapsulation]()
     - [Closure exercise](Closure-exercise.md)
 -  **Curring**
     - [Curring](Curring.md)
