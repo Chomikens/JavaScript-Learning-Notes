@@ -12,7 +12,8 @@
 -  **Immediately Invoked Function Expressions (IIFE)**
 	- [IIFE](IIFE.md)
 -  **Closure**
-    - [Closure](Closure.md)
+    - [Closure intro](Closure.md)
+    - [Closure exercise](Closure-exercise.md)
 -  **Curring**
     - [Curring](Curring.md)
 -  **Composing**
