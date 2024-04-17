@@ -75,6 +75,11 @@ console.log(kikiSing()) // Ups where we have undefined
 ### Ok so what we have more complex object and want our second object (lizard) to inherit all methods and properties? 
 We can use `.__proto__` to inherit all method and object and then overwrite some of these - like below. 
 
+## Importat
+`object.__proto__ = object` is really bad for performane - we should not do this manually. 
+There is proper way to achive this **[How to create own protptypes](Prototypal-inheritance-creating-prototypes..md)
+
+
 
 ```js
 const dragon = {
