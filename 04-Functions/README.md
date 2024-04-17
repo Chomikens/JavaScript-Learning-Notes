@@ -14,7 +14,7 @@
 -  **Closure**
     - [Closure intro](Closure.md)
     - [Closure and Memory](Closure-memory.md)
-    - [Closure encapsulation]()
+    - [Closure data encapsulation](Closure-data-encapsulation.md)
     - [Closure exercise](Closure-exercise.md)
 -  **Curring**
     - [Curring](Curring.md)
