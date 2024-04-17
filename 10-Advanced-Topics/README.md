@@ -6,3 +6,4 @@
 -  **Prototypal Inheritance**
   - [Introduction](Prototypal-inheritance.md)
   - [Methods and tips](Prototypal-inheritance-methods.md)
+  - [Creating own prototypes](Prototypal-inheritance-creating-prototypes.md)
