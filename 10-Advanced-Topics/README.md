@@ -3,3 +3,5 @@
   
 -  **Asynchronous**
 	- [Why Asynchronous is crucial? Prevent blocking operations](Async-intro.md)
+-  **Prototypal Inheritance**
+  - [Introduction](Prototypal-inheritance.md)
