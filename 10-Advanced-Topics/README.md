@@ -8,3 +8,4 @@
   - [Methods and tips](Prototypal-inheritance-methods.md)
   - [Creating own prototypes](Prototypal-inheritance-creating-prototypes.md)
   - [Prototype property](Prototypal-inheritance-propotype-property.md)
+  - [Exercises](Prototypal-inheritance-exercise.md)
