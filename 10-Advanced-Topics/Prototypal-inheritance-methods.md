@@ -1,7 +1,8 @@
 # Prototypal Inheritance - tips and tricks 
 
 ## Importat
-`.__proto__` is really bad for performane - we should not do this. There is proper way to achive this. 
+`object.__proto__ = object` is really bad for performane - we should not do this manually. 
+There is proper way to achive this **[How to create own protptypes](Prototypal-inheritance-creating-prototypes..md)
 
 ## `isPrototypeOf()`
 ### How to check if one object is prototype of an another? 
@@ -56,7 +57,7 @@ const lizard = {
     }
 }
 
-lizard.__proto__ = dragon; 
+lizard.__proto__ = dragon; // This solution is bad for performance reasons
 
 for (let prop in lizard) {
     if (lizard.hasOwnProperty(prop)){
