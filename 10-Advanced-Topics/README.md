@@ -9,4 +9,6 @@
   - [Creating own prototypes](Prototypal-inheritance-creating-prototypes.md)
   - [Prototype property](Prototypal-inheritance-propotype-property.md)
   - [Exercises](Prototypal-inheritance-exercise.md)
+-  **OOP**
   - [OOP: Introduction](Object-oriented-programing.md)
+  - [OOP: Factory Functions](Object-oriented-programing-factory-functions.md)
