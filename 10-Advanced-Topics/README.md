@@ -14,3 +14,4 @@
   - [OOP: Factory Functions](Object-oriented-programing-factory-functions.md)
   - [OOP: Object Create](Object-oriented-programing-object-create.md)
   - [OOP: constructor](Object-oriented-programing-constructor.md)
+    - [OOP: constructor - The Biggest Gotcha!](Object-oriented-programing-constructor.md)
