@@ -13,3 +13,4 @@
   - [OOP: Introduction](Object-oriented-programing.md)
   - [OOP: Factory Functions](Object-oriented-programing-factory-functions.md)
   - [OOP: Object Create](Object-oriented-programing-object-create.md)
+  - [OOP: constructor](Object-oriented-programing-constructor.md)
