@@ -15,3 +15,4 @@
   - [OOP: Object Create](Object-oriented-programing-object-create.md)
   - [OOP: constructor](Object-oriented-programing-constructor.md)
     - [OOP: constructor - The Biggest Gotcha!](Object-oriented-programing-constructor-gotcha.md)
+  - [OOP: Classes](Object-oriented-programing-classes.md)
