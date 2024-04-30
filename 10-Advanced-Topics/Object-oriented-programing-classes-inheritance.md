@@ -39,3 +39,25 @@ const shrek = new Ogre("Shrek", 100, "Sword of Onion", 50, "Green Ogre");
 console.log(shrek.attack(fiona));
 
 ```
+
+## Important to remember 
+
+
+### Correct Syntax and Use Cases:
+
+-   **In a Constructor**: Use `super()` to call the parent class constructor.
+   ```js
+constructor(name, hp, weapon, attackValue) {
+	super(name, hp, weapon, attackValue);
+	// additional subclass initializations
+	} 
+```    
+
+-   **In a Method**: Use `super.methodName(args)` to call a specific method of the parent class.
+```js
+attack(enemy) {
+console.log(super.attack(enemy)); 
+// Extend the functionality of the parent class's attack method 
+// additional subclass behavior
+}
+```
