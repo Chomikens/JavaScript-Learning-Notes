@@ -28,7 +28,9 @@ class Ogre extends Character {
     this.type = type;
   }
 
-  // When we want to modyfi attack function here we also must use super on function and modify its
+// No super in Overridden Method: If you want to completely redefine the method in your subclass without reusing any part of the base class implementation, you do not need to use super. You would simply write the new method implementation without referencing super.
+
+//  When you override a method in a subclass but still want to use the base class's method (either before, after, or in between your additional subclass logic), you use super.methodName(...). This is what you're seeing with super.attack(enemy) in your Ogre class. It calls the attack method of the base Character class, allowing you to extend or modify its behavior while still leveraging the 
 }
 
 const fiona = new Character("Fiona", 40, "Fists", 10);
