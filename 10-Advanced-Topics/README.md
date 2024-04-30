@@ -16,3 +16,4 @@
   - [OOP: constructor](Object-oriented-programing-constructor.md)
     - [OOP: constructor - The Biggest Gotcha!](Object-oriented-programing-constructor-gotcha.md)
   - [OOP: Classes](Object-oriented-programing-classes.md)
+  - [OOP: Classes Inheritance](Object-oriented-programing-classes-inheritance.md)
