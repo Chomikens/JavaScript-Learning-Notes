@@ -18,3 +18,5 @@
   - [OOP: Classes](Object-oriented-programing-classes.md)
   - [OOP: Classes Inheritance](Object-oriented-programing-classes-inheritance.md)
   - [OOP: Exercise](Object-oriented-programming-exercise.md)
+-**Functional Programming**
+  - [Pure Funtions](Functional-prog-pure-functions.md)
