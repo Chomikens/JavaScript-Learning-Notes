@@ -21,3 +21,4 @@
 -**Functional Programming**
   - [Pure Funtions](Functional-prog-pure-functions.md)
   - [Imperative vs. declarative code](Functional-prog-imperative-vs-delcerative.md)
+  - [Immutability](Functional-prog-immutability.md)
