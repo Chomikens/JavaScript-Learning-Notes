@@ -27,3 +27,4 @@
     - [Memory Effecient](../04-Functions/Closure-memory.md)
     - [Data encapsulation](../04-Functions/Closure-data-encapsulation.md)
   - [Curring](../04-Functions/Curring.md)
+  - [Partial Apllication](Partial-Application.md)
