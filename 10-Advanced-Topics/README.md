@@ -24,3 +24,4 @@
   - [Immutability](Functional-prog-immutability.md)
   - [Higher Order Function](../04-Functions/Higher-order-function.md)
   - [Closures](../04-Functions/Closure.md)
+  - [Curring](../04-Functions/Curring.md)
