@@ -29,3 +29,4 @@
   - [Curring](../04-Functions/Curring.md)
   - [Partial Apllication](Partial-Application.md)
   - [Memoization](Memoization.md)
+  - [Composing](Compose.md)
