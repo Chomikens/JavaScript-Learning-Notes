@@ -18,7 +18,7 @@
   - [OOP: Classes](Object-oriented-programing-classes.md)
   - [OOP: Classes Inheritance](Object-oriented-programing-classes-inheritance.md)
   - [OOP: Exercise](Object-oriented-programming-exercise.md)
--**Functional Programming**
+- **Functional Programming**
   - [Pure Funtions](Functional-prog-pure-functions.md)
   - [Imperative vs. declarative code](Functional-prog-imperative-vs-delcerative.md)
   - [Immutability](Functional-prog-immutability.md)
@@ -30,3 +30,4 @@
   - [Partial Apllication](Partial-Application.md)
   - [Memoization](Memoization.md)
   - [Composing](Compose.md)
+  - [Exercise](Functional-prog-exercisey.md)
