@@ -31,3 +31,6 @@
   - [Memoization](Memoization.md)
   - [Composing](Compose.md)
   - [Exercise](Functional-prog-exercisey.md)
+- **Asynchronous JavaScript** 
+  - [Asynchronous Intro](Async-intro.md)
+  - [Promise](Async-promise.md)
