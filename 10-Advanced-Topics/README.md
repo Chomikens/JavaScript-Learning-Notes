@@ -34,3 +34,4 @@
 - **Asynchronous JavaScript** 
   - [Asynchronous Intro](Async-intro.md)
   - [Promise](Async-promise.md)
+    - [Exercise](Async-promise-exercise.md)
