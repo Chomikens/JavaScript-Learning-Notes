@@ -34,6 +34,7 @@
 - **Asynchronous JavaScript** 
   - [HTTP / HTTPS](HTTP.md)
   - [JSON](JSON.md)
+  - [AJAX](AJAX.md)
   - [Asynchronous Intro](Async-intro.md)
   - [Promise](Async-promise.md)
     - [Exercise](Async-promise-exercise.md)
