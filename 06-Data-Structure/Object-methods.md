@@ -173,3 +173,19 @@ In this example, `user.address?.zip` attempts to access `zip` within `address`. 
 -   **Safety and Readability:** This pattern allows for safe access and manipulation of object properties without verbose and complex error handling.
 -   **Simplicity:** It simplifies the code by reducing the need for multiple conditional statements to check for the existence of each property in the chain.
 -   **Default Values:** It provides a straightforward way to define default values for potentially undefined properties, making the code more resilient and predictable.
+
+
+## Object Spred Operator 
+
+```js
+const animalsAge = {
+  tiger:23,
+  lion:22,
+  cat:1,
+}
+
+const {tiger, ...rest} = animalsAge
+
+// Output: const tiger and const rest which is an object.
+
+```
