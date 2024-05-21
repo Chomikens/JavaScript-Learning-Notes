@@ -31,7 +31,7 @@ async function parallel() {
 ```
 
 ## Sequence  - if first succes then second 
-
+When they depend od each other
 
 ```js
 
