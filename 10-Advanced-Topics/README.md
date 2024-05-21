@@ -41,3 +41,4 @@
   - [Async - Await](Async-await.md)
     - [For await of](For-await-of.md)
   - [Microtask Queue(Job Queue)](Job-Queue.md)
+  -[Parralel, Sequence and Race](Parallel,%20Sequence%20and%20Race.md)
