@@ -106,6 +106,12 @@ async function fetchAndLogData() {
 fetchAndLogData();
 
 
+
+// Or we can use then when promise is resolve
+
+dataFromUrl(urls).then(data => {
+    console.log(data);  // This will log the data once it is fetched.
+});
 ```
 
 ## Async try & catch block; 
