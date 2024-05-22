@@ -42,3 +42,6 @@
     - [For await of](For-await-of.md)
   - [Microtask Queue(Job Queue)](Job-Queue.md)
   -[Parralel, Sequence and Race](Parallel,%20Sequence%20and%20Race.md)
+- **Moduls** 
+   - [(Archive) Reval Modul Pattern)](Module.md)
+   - [(Archive) CommonJS and AMD](CommonJs.md)
