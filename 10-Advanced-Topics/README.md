@@ -45,3 +45,4 @@
 - **Moduls** 
    - [(Archive) Reval Modul Pattern)](Module.md)
    - [(Archive) CommonJS and AMD](CommonJs.md)
+   -[ES6 Modules](ES6%20Modules.md)
